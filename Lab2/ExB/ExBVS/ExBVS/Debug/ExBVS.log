@@ -1,0 +1,19 @@
+﻿  graphicsWorld.cpp
+C:\Dev\Ensf480\Lab2\ExB\graphicsWorld.cpp(29,32): error C2664: 'Square::Square(double,double,double,char *)': cannot convert argument 4 from 'const char [10]' to 'char *'
+C:\Dev\Ensf480\Lab2\ExB\graphicsWorld.cpp(29,21): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Dev\Ensf480\Lab2\ExB\square.h(15,2): message : see declaration of 'Square::Square'
+C:\Dev\Ensf480\Lab2\ExB\graphicsWorld.cpp(36,41): error C2664: 'Rectangle::Rectangle(double,double,double,double,char *)': cannot convert argument 5 from 'const char [12]' to 'char *'
+C:\Dev\Ensf480\Lab2\ExB\graphicsWorld.cpp(36,28): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Dev\Ensf480\Lab2\ExB\rectangle.h(15,2): message : see declaration of 'Rectangle::Rectangle'
+C:\Dev\Ensf480\Lab2\ExB\graphicsWorld.cpp(38,37): error C2664: 'Rectangle::Rectangle(double,double,double,double,char *)': cannot convert argument 5 from 'const char [12]' to 'char *'
+C:\Dev\Ensf480\Lab2\ExB\graphicsWorld.cpp(38,24): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Dev\Ensf480\Lab2\ExB\rectangle.h(15,2): message : see declaration of 'Rectangle::Rectangle'
+C:\Dev\Ensf480\Lab2\ExB\graphicsWorld.cpp(45,47): error C2664: 'Rectangle::Rectangle(double,double,double,double,char *)': cannot convert argument 5 from 'const char [15]' to 'char *'
+C:\Dev\Ensf480\Lab2\ExB\graphicsWorld.cpp(45,31): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Dev\Ensf480\Lab2\ExB\rectangle.h(15,2): message : see declaration of 'Rectangle::Rectangle'
+  main.cpp
+  point.cpp
+  rectangle.cpp
+  shape.cpp
+  square.cpp
+  Generating Code...

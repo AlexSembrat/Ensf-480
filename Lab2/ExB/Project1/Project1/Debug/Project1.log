@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "public: __thiscall String::String(int)" (??0String@@QAE@H@Z) referenced in function _main
+C:\Dev\Ensf480\Lab2\ExB\Project1\Debug\Project1.exe : fatal error LNK1120: 1 unresolved externals
